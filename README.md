@@ -1,12 +1,12 @@
-# lab-pw-2017-1
+# Biografia Dougals de França Alves
 
-Laboratório da turma de Programação para Web.
+Atividade para Disciplina de Programação Web - Sistemas de informação
 
 ## Para rodar o projeto
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/dougfalves/UFG-PW-Biografia.git
 
 ### Para rodar com o Tomcat.
 
@@ -18,14 +18,4 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 `http://localhost:8080` em qualquer navegador.
 
-### Para "empacotar" a aplicação.
 
-`mvnw package`
-
-## Para "preparar" o projeto
-
-### Para "embutir" o Maven no projeto.
-
-Não precisa fazer isso! Já foi feito. :)
-
-`mvn io.takari:maven:0.3.3:wrapper -Dmaven=3.3.9`
